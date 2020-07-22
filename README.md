@@ -14,7 +14,7 @@ If {!dateValue} = **July 22, 2020** you would want the formula to return **7/22/
 
 I could find no easy way to do time-zone calculations in Flow so I created a Flow Action that would keep everything in my current time-zone.
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](Action.PNG "image_tooltip")
 
 
 With this action, my result for **July 22, 2020** is **7/22/2020 12:00 AM**.
