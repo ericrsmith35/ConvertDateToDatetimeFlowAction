@@ -18,5 +18,3 @@ I could find no easy way to do time-zone calculations in Flow so I created a Flo
 
 
 With this action, my result for **July 22, 2020** is **7/22/2020 12:00 AM**.
-
-If you want a timestamp of other than 12:00 AM, you can pass in the desired hour, minute and second values.
