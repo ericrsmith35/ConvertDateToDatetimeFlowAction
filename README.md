@@ -1,11 +1,5 @@
 # ConvertDateToDatetimeFlowAction
 
-<a href="https://githubsfdeploy.herokuapp.com">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
-  
-  
 It’s fairly easy to extract the Date portion of a Datetime value in a Flow formula.
 
 **DATEVALUE({!datetimeValue})**
@@ -24,3 +18,10 @@ I could find no easy way to do time-zone calculations in Flow so I created a Flo
 
 
 With this action, my result for **July 22, 2020** is **7/22/2020 12:00 AM**.
+
+
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
