@@ -1,5 +1,10 @@
 # ConvertDateToDatetimeFlowAction
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 It’s fairly easy to extract the Date portion of a Datetime value in a Flow formula.
 
 **DATEVALUE({!datetimeValue})**
