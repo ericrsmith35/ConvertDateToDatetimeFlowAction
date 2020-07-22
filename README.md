@@ -1,4 +1,4 @@
-#ConvertDateToDatetimeFlowAction
+# ConvertDateToDatetimeFlowAction
 
 It’s fairly easy to extract the Date portion of a Datetime value in a Flow formula.
 
